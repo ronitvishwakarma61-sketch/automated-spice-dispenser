@@ -161,7 +161,7 @@ This repository includes:
 
 ## 👨‍💻 Author
 
-**Krish**
+**Ronit and Krish**
 
 B.Tech – Electronics and Communication Engineering
 
